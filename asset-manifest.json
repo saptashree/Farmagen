@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Farmagen/static/css/main.70ca7c0a.chunk.css",
+    "main.js": "/Farmagen/static/js/main.116d0540.chunk.js",
+    "main.js.map": "/Farmagen/static/js/main.116d0540.chunk.js.map",
+    "runtime-main.js": "/Farmagen/static/js/runtime-main.5c8c72e1.js",
+    "runtime-main.js.map": "/Farmagen/static/js/runtime-main.5c8c72e1.js.map",
+    "static/css/2.a3465ade.chunk.css": "/Farmagen/static/css/2.a3465ade.chunk.css",
+    "static/js/2.6d01f541.chunk.js": "/Farmagen/static/js/2.6d01f541.chunk.js",
+    "static/js/2.6d01f541.chunk.js.map": "/Farmagen/static/js/2.6d01f541.chunk.js.map",
+    "index.html": "/Farmagen/index.html",
+    "static/css/2.a3465ade.chunk.css.map": "/Farmagen/static/css/2.a3465ade.chunk.css.map",
+    "static/css/main.70ca7c0a.chunk.css.map": "/Farmagen/static/css/main.70ca7c0a.chunk.css.map",
+    "static/js/2.6d01f541.chunk.js.LICENSE.txt": "/Farmagen/static/js/2.6d01f541.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c8c72e1.js",
+    "static/css/2.a3465ade.chunk.css",
+    "static/js/2.6d01f541.chunk.js",
+    "static/css/main.70ca7c0a.chunk.css",
+    "static/js/main.116d0540.chunk.js"
+  ]
+}
